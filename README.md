@@ -3,7 +3,7 @@ This repository contains Benson's tests and modified codes based on the Google O
 
 More tests will be implemented to solve problems such as routing, bin packing, network flows, assignment, scheduling, puzzles, etc. in the next month.
 
-*by Benson 03/10/2018*
+*by Benson, 03/10/2018*
 
 To use the .py codes, please follow the steps below.
  1. Verify that you have Python 2.7+, 3.5, or 3.6, by `python --version` and pip 9.01 or higher by `pip -V`. If not, please update the pip by `install --upgrade pip`.
@@ -12,4 +12,4 @@ To use the .py codes, please follow the steps below.
  4. Test these .py codes to see their results.
  5. For more sample .py projects created by Google, please check out [ortools sample](https://github.com/google/or-tools/releases/download/v6.4/or-tools_python_examples_v6.4.4495.zip).
 
-*by Benson 03/11/2018*
+*by Benson, 03/11/2018*
